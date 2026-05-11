@@ -91,7 +91,7 @@ rec_filt = filtfilt(b, a, rec)
 
 # Plot
 plt.figure(figsize=(10,8))
-plt.suptitle("NAME : KRITHI.V\nREG NO : 212224060128",
+plt.suptitle("NAME : RAKSHAYA R\nREG NO : 212224060204",
              fontsize=12, fontweight='bold')
 
 plt.subplot(3,1,1)
